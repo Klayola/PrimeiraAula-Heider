@@ -3,4 +3,6 @@
     <color name="colorPrimary">#FFC107</color>
     <color name="colorPrimaryDark">#FFA000</color>
     <color name="colorAccent">#FF5722</color>
+    <color name="backgroung_Splash">#FFFF00</color>
+    <color name="cor_texto_splash">#da8607</color>
 </resources>
